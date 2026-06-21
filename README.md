@@ -1,48 +1,83 @@
 # Hi, I'm Aziz Efe Eryılmaz
 
-I am a Computer Technology student focused on backend development, API design, database systems, and real-world software architecture.
+I am a Computer Technology student focused on backend development, full-stack web applications, API design, database systems, Docker-based development, and real-world software architecture.
 
-I build projects that demonstrate practical backend skills such as authentication, database modeling, multi-tenant systems, inventory management, order workflows, audit logging, Docker-based development, and automated testing.
+I build structured software projects that demonstrate practical skills such as authentication, database modeling, multi-tenant systems, inventory management, order workflows, audit logging, automated testing, Docker Compose setups, CI pipelines, and technical documentation.
 
 ## Featured Project
 
 ### FlowOps — Multi-Tenant B2B Operations Platform
 
-FlowOps is a portfolio-level backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, JWT authentication, Docker Compose, Redis, and Pytest.
+FlowOps is a full-stack multi-tenant B2B operations platform built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, JWT authentication, Docker, Next.js, TypeScript, Tailwind CSS, Redis, Pytest, and GitHub Actions CI.
 
-The project includes:
-
-* JWT-based authentication
-* Multi-tenant organization management
-* Product management
-* Inventory movement tracking
-* Order management
-* Dashboard summary endpoint
-* Audit logging system
-* Automated backend API tests
-* PostgreSQL database migrations with Alembic
-* Docker-based local development environment
+The project demonstrates a realistic business operations system with backend APIs, frontend pages, authentication, organization-based data isolation, product management, inventory tracking, order processing, dashboard metrics, audit logging, Dockerized services, automated tests, CI validation, demo data seeding, and technical documentation.
 
 Repository:
 
 [FlowOps GitHub Repository](https://github.com/azizefe1/flowops)
 
+Key features:
+
+* JWT-based user authentication
+* Multi-tenant organization management
+* Product management
+* Inventory movement tracking
+* Order management and stock reduction
+* Dashboard summary metrics
+* Audit logging system
+* Next.js frontend connected to backend APIs
+* PostgreSQL database migrations with Alembic
+* Docker Compose full-stack setup
+* Demo data seed script
+* Backend API tests with Pytest
+* Frontend production build validation
+* Backend and frontend Docker image build checks
+* GitHub Actions CI pipeline
+
 ## Technologies I Use
+
+### Backend
 
 * Python
 * FastAPI
 * PostgreSQL
 * SQLAlchemy
 * Alembic
+* Pydantic
+* JWT Authentication
+* REST API Development
+
+### Frontend
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+
+### DevOps & Tools
+
 * Docker
+* Docker Compose
 * Redis
 * Pytest
-* REST API Development
-* Git & GitHub
+* GitHub Actions
+* Git
+* GitHub
 
 ## Current Focus
 
-I am currently improving my backend development skills by building structured, real-world projects with clean API design, database relationships, authentication, testing, and documentation.
+I am currently improving my software development skills by building real-world projects with clean API design, relational database modeling, authentication, testing, Docker-based development, CI workflows, and documentation.
+
+My main focus areas are:
+
+* Backend architecture
+* API design
+* Database relationships
+* Authentication and authorization
+* Dockerized development environments
+* Automated testing
+* Full-stack project structure
+* Portfolio-level software projects
 
 ## GitHub Projects
 
@@ -50,4 +85,8 @@ My GitHub repositories are focused on learning, building, and improving practica
 
 Main project:
 
-* [FlowOps](https://github.com/azizefe1/flowops) — Multi-tenant B2B operations platform
+* [FlowOps](https://github.com/azizefe1/flowops) — Full-stack multi-tenant B2B operations platform
+
+## Contact
+
+GitHub: [azizefe1](https://github.com/azizefe1)
